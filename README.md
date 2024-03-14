@@ -5,6 +5,7 @@ Em uma página HTML, quase tudo são caixas. Elas podem não aparecer mas estão
 Com o objetivo de dar significado a essas caixas, o HTML criou tags específicas: \<header\>, \<main\>, \<footer\>, \<aside\>, \<menu\>, \<nav\> e etc. Cada uma dessas caixas tem um objetivo específico, mas ainda são caixas. Pense na seguinte analogia: você comprou um sapato, que veio em uma bela e espaçosa caixa, e decidiu guardar nela aquelas suas cartas de Yu-Gi-Oh! que estavam espalhadas pela casa. Embora seja uma caixa feita para guardar sapatos, você pode guardar qualquer coisa nela.
 
 :pizza::pizza::pizza:
+
 Ainda, pensando na mesma analogia:  imagine que é sexta-feira e você está pensando em assistir Tartarugas Ninjas e vai até a sua pizzaria favorita comprar uma pizza, para deixar sua noite perfeita. Ao retirar a pizza ela vem em uma caixa de sapato (e você descobre que os sapatos estavam em promoção).
 
 A questão aqui é: embora você possa colocar qualquer coisa dentro das caixas HTML, **é melhor escolher a caixa adequada para cada coisa**.
